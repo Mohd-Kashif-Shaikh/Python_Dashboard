@@ -1,5 +1,6 @@
 # Python_Dashboard
 A Python-based interactive dashboard for data visualization and analysis.
+
 To run the dashboard locally, execute the following command:
 ```
 panel serve Python Dashboard.ipynb
